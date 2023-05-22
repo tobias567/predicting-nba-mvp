@@ -5,8 +5,8 @@ The project conists of the following three parts:
 
 1. Web scraping
 2. Data cleaning and analysis
-3. Machine learning
+3. Machine learning (working on this part now)
 
 The data used for this project will be scraped from this webiste: https://www.basketball-reference.com.
 
-The project is inspired by this video series from Dataquest: https://www.youtube.com/watch?v=JGQGd-oa0l4. 
+Some of part of this project, especially the web-scraping part, is inspired by this video series from Dataquest: https://www.youtube.com/watch?v=JGQGd-oa0l4. 
